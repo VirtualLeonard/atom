@@ -121,7 +121,7 @@
     "marked": "1.1.1",
     "metrics": "https://www.atom.io/api/packages/metrics/versions/1.8.1/tarball",
     "minimatch": "^3.0.3",
-    "mocha": "github:sadick254/mocha#a3644c6",
+    "mocha": "github:sadick254/mocha#d8ac68f",
     "mocha-junit-reporter": "2.0.0",
     "mocha-multi-reporters": "^1.1.4",
     "mock-spawn": "^0.2.6",
